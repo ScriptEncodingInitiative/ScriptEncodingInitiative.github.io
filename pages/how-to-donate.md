@@ -11,7 +11,7 @@ We are currently sorting out how SEI can accept donations under the sponsorship 
 
 In-kind contributions are also helpful. SEI is in need of volunteers, as mentioned on our home page.
 
-Donations to SEI help support SEI work. Funds are used primarily to pay script encoding specialists and graduate students to do research, and write script proposals on a per-script basis. Funding also covers research-related travel, administrative costs, and website maintenance. SEI's [progress](https://linguistics.berkeley.edu/sei/progress-overview.html) web page gives an overview of project achievements.
+Donations to SEI help support SEI work. Funds are used primarily to pay script encoding specialists and graduate students to do research, and write script proposals on a per-script basis. Funding also covers research-related travel, administrative costs, and website maintenance. SEI's [progress](https://linguistics.berkeley.eduprogress-overview.html) web page gives an overview of project achievements.
 
 
 ## How to help

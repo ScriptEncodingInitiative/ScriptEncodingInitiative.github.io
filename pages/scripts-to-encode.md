@@ -3,7 +3,7 @@ title: "Scripts to Encode"
 date: 2014-11-01
 permalink: "scripts-to-encode.html"
 layout: "layouts/post.njk"
-image: "/sei/static/img/twodocs.jpg"
+image: "static/img/twodocs.jpg"
 ---
 
 
