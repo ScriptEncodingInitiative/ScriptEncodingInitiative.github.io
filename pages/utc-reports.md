@@ -12,8 +12,14 @@ SEI initiates encoding proposal work, and shepherds proposals to completion, thr
 
 The following are copies of SEI liaison reports to UTC/L2, in reverse chronological order, in PDF format:
 
+## 2023
+
+* 2022-04-21: [23084](https://www.unicode.org/L2/L2023/23084-sei-liaison-rept.pdf)
+* 2022-01-13: [23013](https://www.unicode.org/L2/L2023/23013-sei-liaison-rept.pdf)
+
 ## 2022
 
+* 2022-10-28: [22249](https://www.unicode.org/L2/L2022/22249-sei-liaison-rept.pdf)
 * 2022-07-25: [22129](https://www.unicode.org/L2/L2022/22129-sei-liaison-rept.pdf)
 * 2022-04-15: [22069](https://www.unicode.org/L2/L2022/22069-sei-liaison-rept.pdf)
 * 2022-01-20: [22024](https://www.unicode.org/L2/L2022/22024-sei-liaison-rept.pdf)
