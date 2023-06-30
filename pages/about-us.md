@@ -36,6 +36,8 @@ For additional information on Unicode, [future encoding plans](http://www.unico
 
 - Jan Kučera is a Research Associate of SEI. He completed Ph.D in Human-Computer Interaction at the Newcastle University and joined Unicode in 2014. He is also member of ISO/JTC 1/SC 2 and ISO/TC 46 committees. Jan provides input on South Asian script proposals.
 
+- Anushah Hossain is a Research Associate at SEI. She is a historian of technology, whose dissertation work focused on the Unicode Standard and its treatment of Indic scripts. She completed her PhD at the University of California, Berkeley, and is currently a postdoctoral fellow at Stanford University’s Digital Civil Society Lab.
+
 ### Alumni
 
 - Lara Lin Mcconnaughey, Iman Hani Alzaghari, Joyce Choi, Shirin Moti, Elizabeth Martyn, and Akshayraj Aitha, all undergraduates of UC Berkeley assisted on web-related work for the project in spring and summer of 2016.
