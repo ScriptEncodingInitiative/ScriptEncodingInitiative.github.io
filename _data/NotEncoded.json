@@ -13,6 +13,13 @@
 		"link": "http://www.unicode.org/L2/L2012/12228-n4292-afaka.pdf",
 		"contact": "Everson"},
 		
+		{"name": "Aiha",
+		"type": "A",
+		"hma": "a",
+		"proposal": "Y",
+		"link": "hhttps://www.unicode.org/L2/L2023/23136-n5226-aiha.pdf",
+		"contact": "Everson"},
+	
 		{"name": "Angka bejagung (Rejang Numbers)",
 		"type": "N",
 		"hma": "",
@@ -40,20 +47,6 @@
 		"proposal": "",
 		"link": "",
 		"contact": ""},
-		
-		{"name": "Badaga",
-		"type": "G",
-		"hma": "m",
-		"proposal": "",
-		"link": "",
-		"contact": ""},
-		
-		{"name": "Badugu",
-		"type": "G",
-		"hma": "m",
-		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22220-introducing-badagu-script.pdf",
-		"contact": "Mandal"},
 		
 		{"name": "Bagam (Eghap)",
 		"type": "S",
@@ -97,25 +90,18 @@
 		"link": "http://www.unicode.org/L2/L2014/14283-bhujinmol.pdf",
 		"contact": "Pandey"},
 		
-		{"name": "Bimanese",
-		"type": "",
-		"hma": "",
-		"proposal": "",
-		"link": "",
-		"contact": ""},
-		
 		{"name": "Buginese extensions for Bima",
 		"type": "",
 		"hma": "",
 		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22150-biima-script.pdf",
-		"contact": "Febri, Muhammad, Nasrullah"},
+		"link": "hhttps://www.unicode.org/L2/L2023/23070-bima-script.pdf",
+		"contact": "Febri Muhammad Nasrullah"},
 		
 		{"name": "Blissymbols",
 		"type": "I",
 		"hma": "m",
 		"proposal": "Y",
-		"link": "http://www.unicode.org/L2/L2020/20140-n5130-blissymbols.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23138-n5228-blissymbols.pdf",
 		"contact": "Everson"},
 		
 		{"name": "Book Pahlavi",
@@ -159,7 +145,14 @@
 		"proposal": "",
 		"link": "",
 		"contact": ""},
-		
+
+		{"name": "Chak",
+		"type": "",
+		"hma": "",
+		"proposal": "",
+		"link": "",
+		"contact": ""},
+
 		{"name": "Chalukya (Box-Headed)",
 		"type": "G",
 		"hma": "H",
@@ -170,8 +163,8 @@
 		{"name": "Chisoi",
 		"type": "A",
 		"hma": "m",
-		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22218-chisoi.pdf",
+		"proposal": "Approved",
+		"link": "https://www.unicode.org/cgi-bin/GetDocumentLink?L2/22-218",
 		"contact": "Mandal"},
 		
 		{"name": "Chola",
@@ -221,7 +214,7 @@
 		"hma": "h",
 		"proposal": "Y*",
 		"link": "http://www.unicode.org/L2/L2021/21108-n5163-hieroglyphs.pdf",
-		"contact": "Suignard"},
+		"contact": "Suignard et al."},
 		
 		{"name": "Epi-Olmec",
 		"type": "I",
@@ -278,13 +271,6 @@
 		"proposal": "Approved*",
 		"link": "https://www.unicode.org/L2/L2022/22048-garay-script.pdf",
 		"contact": "Rovenchak et al."},
-		
-		{"name": "Goyakanadi",
-		"type": "A-S",
-		"hma": "h",
-		"proposal": "Y",
-		"link": "http://www.unicode.org/L2/L2020/20264-goyakanadi.pdf",
-		"contact": "Shashank Shenoy Basty"},
 		
 		{"name": "Gregg Shorthand",
 		"type": "",
@@ -367,8 +353,8 @@
 		"type": "I",
 		"hma": "h",
 		"proposal": "Y",
-		"link": "http://www.unicode.org/L2/L2010/10101-n3788.pdf",
-		"contact": "Chinese NB"},
+		"link": "https://www.unicode.org/L2/L2023/23068-n5207-jurchen.pdf",
+		"contact": "West"},
 		
 		{"name": "Kadamba",
 		"type": "",
@@ -391,13 +377,6 @@
 		"link": "",
 		"contact": "M. Rosa"},
 		
-		{"name": "Kaktovik numerals",
-		"type": "N",
-		"hma": "m",
-		"proposal": "Approved",
-		"link": "http://www.unicode.org/L2/L2021/21058r-kaktovik-numerals.pdf",
-		"contact": "Marín Silva, Miller, Strand"},
-		
 		{"name": "Karani",
 		"type": "",
 		"hma": "h",
@@ -412,7 +391,7 @@
 		"link": "",
 		"contact": ""},
 		
-		{"name": "Kerinci",
+		{"name": "Kerinci (Incoung)",
 		"type": "A-S",
 		"hma": "",
 		"proposal": "Y",
@@ -465,7 +444,7 @@
 		"type": "A",
 		"hma": "m",
 		"proposal": "Y",
-		"link": "http://www.unicode.org/L2/L2021/21209-kore-sebeli.pdf",
+		"link": "https://www.unicode.org/L2/L2022/22222-kore-sebeli.pdf",
 		"contact": "Bangoura, Guigon & Sylla"},
 		
 		{"name": "Kpelle",
@@ -573,13 +552,20 @@
 		"link": "",
 		"contact": ""},
 		
-		{"name": "Mayan Hieroglyphs",
+		{"name": "Mayan Hieroglyphs (Classic)",
+		"type": "L",
+		"hma": "h",
+		"proposal": "Y",
+		"link": "https://www.unicode.org/L2/L2023/23020-mayan-sign-list.pdf",
+		"contact": "Vail et al."},
+				
+		{"name": "Mayan Hieroglyphs (Codical)",
 		"type": "L",
 		"hma": "h",
 		"proposal": "Y*",
 		"link": "http://www.unicode.org/L2/L2020/20248-mayan-update.pdf",
 		"contact": "Carlos Pallan"},
-		
+
 		{"name": "Micmac Hieroglyphs",
 		"type": "Lg",
 		"hma": "h",
@@ -614,13 +600,6 @@
 		"proposal": "Y*",
 		"link": "http://www.unicode.org/L2/L2012/12311-n4323-mwangwego.pdf",
 		"contact": "Everson"},
-		
-		{"name": "Nag Mundari",
-		"type": "A",
-		"hma": "m",
-		"proposal": "Approved",
-		"link": "http://www.unicode.org/L2/L2021/21031r-mundari.pdf",
-		"contact": "Wolf-Sonkin & Mandal"},
 		
 		{"name": "Nasu",
 		"type": "",
@@ -667,8 +646,8 @@
 		{"name": "Ol Onal",
 		"type": "A",
 		"hma": "m",
-		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22197-ol-onal-script.pdf",
+		"proposal": "Approved",
+		"link": "https://www.unicode.org/L2/L2022/22151r-ol-onal-script.pdf",
 		"contact": "Mandal & Kucera"},
 		
 		
@@ -754,7 +733,7 @@
 		"type": "Lg",
 		"hma": "h",
 		"proposal": "Y*",
-		"link": "http://www.unicode.org/L2/L2020/20193-proto-cuneiform.pdf",
+		"link": "https://www.unicode.org/L2/L2022/22239-proto-cuneiform.pdf",
 		"contact": "Pandey"},
 		
 		
@@ -801,7 +780,7 @@
 		"type": "G",
 		"hma": "m",
 		"proposal": "",
-		"link": "",
+		"link": "https://www.unicode.org/L2/L2023/23028-ranjana.pdf",
 		"contact": "Pandey"},
 		
 		
@@ -840,8 +819,8 @@
 		"type": "I",
 		"hma": "h",
 		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2019/19228-n5105-small-seal-update.pdf",
-		"contact": "TCA & Chinese NB"},
+		"link": "https://www.unicode.org/L2/L2022/22279-ucs-seal-map.pdf",
+		"contact": "Richard Cook"},
 		
 		{"name": "Shankha (Shell script)",
 		"type": "",
@@ -867,8 +846,8 @@
 		{"name": "Sidetic",
 		"type": "A",
 		"hma": "h",
-		"proposal": "Y",
-		"link": "http://www.unicode.org/L2/L2021/21111-sidetic.pdf",
+		"proposal": "Approved*",
+		"link": "https://www.unicode.org/L2/L2023/23019-sidetic.pdf",
 		"contact": "Pandey"},
 		
 		{"name": "Sirmauri",
@@ -905,13 +884,27 @@
 		"proposal": "Approved*",
 		"link": "https://www.unicode.org/L2/L2021/21157r-sunuwar.pdf",
 		"contact": "Pandey"},
-		
-		{"name": "Tai Don",
+						
+		{"name": "Tai Pao",
+		"type": "",
+		"hma": "",
+		"proposal": "",
+		"link": "",
+		"contact": ""},
+
+		{"name": "Tai Viet additions for Jinping Dai",
 		"type": "G",
 		"hma": "m",
 		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22210-tai-don-script.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23023-add-tai-viet.pdf",
 		"contact": "Kushim Jiang"},
+				
+		{"name": "Tai Yo",
+		"type": "G",
+		"hma": "m",
+		"proposal": "Approved",
+		"link": "https://www.unicode.org/L2/L2022/22289r-tai-yo-script.pdf",
+		"contact": "Nguyen, Sam et al."},
 		
 		{"name": "Tangsa (Khimhun)",
 		"type": "A",
@@ -965,8 +958,8 @@
 		{"name": "Tolong Siki",
 		"type": "A",
 		"hma": "m",
-		"proposal": "Y*",
-		"link": "http://www.unicode.org/L2/L2010/10106-n3811-tolongsiki.pdf",
+		"proposal": "Approved*",
+		"link": "https://www.unicode.org/L2/L2023/23024-tolong-siki.pdf",
 		"contact": "Pandey"},
 		
 		{"name": "Tulu-Tigalari",
@@ -1032,20 +1025,13 @@
 		"link": "",
 		"contact": ""},
 		
-		{"name": "Yi , Sani Yi",
+		{"name": "Yi , Sani",
 		"type": "L",
 		"hma": "m",
 		"proposal": "",
 		"link": "",
 		"contact": ""},
-		
-		{"name": "Yo Lai Tay",
-		"type": "",
-		"hma": "m",
-		"proposal": "Y",
-		"link": "https://www.unicode.org/L2/L2022/22208-yo-lai-tay-script.pdf",
-		"contact": "Nguyen, Sam et al."},
-		
+
 		{"name": "Zapotec",
 		"type": "",
 		"hma": "h",
