@@ -4,7 +4,7 @@ date: 2022-11-30
 layout: "layouts/post.njk"
 ---
 
-The Script Encoding Initiative (SEI), established in the [UC Berkeley Department of Linguistics](http://linguistics.berkeley.edu/) in April 2002, is a project devoted to the preparation of formal proposals for the encoding of scripts and script elements not yet currently supported in Unicode (ISO/IEC 10646). SEI moved to [Stanford Libraries](https://library.stanford.edu/) in 2023.
+The Script Encoding Initiative (SEI), established in the [UC Berkeley Department of Linguistics](http://linguistics.berkeley.edu/) in April 2002, is a project devoted to the preparation of formal proposals for the encoding of scripts and script elements not yet currently supported in Unicode (ISO/IEC 10646). 
 
 [Unicode](http://www.unicode.org/standard/WhatIsUnicode.html) is the universal computing standard specifying the representation of text in all modern software. To date, Unicode has largely focused on the major modern scripts, particularly those scripts most widely used in business. Some minority and historic scripts have already been encoded, as well as historic characters of the major modern scripts.
 
