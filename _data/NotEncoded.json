@@ -94,7 +94,7 @@
 		"type": "",
 		"hma": "",
 		"proposal": "Y",
-		"link": "hhttps://www.unicode.org/L2/L2023/23070-bima-script.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23070-bima-script.pdf",
 		"contact": "Febri Muhammad Nasrullah"},
 		
 		{"name": "Blissymbols",
@@ -380,14 +380,7 @@
 		{"name": "Karani",
 		"type": "",
 		"hma": "h",
-		"proposal": "Approved",
-		"link": "https://www.unicode.org/L2/L2020/20284r-kawi.pdf",
-		"contact": "Bayu Perdana, Ilham Nurwansah"},
-		
-		{"name": "Kawi",
-		"type": "G",
-		"hma": "h",
-		"proposal": "Approved",
+		"proposal": "",
 		"link": "",
 		"contact": ""},
 		
