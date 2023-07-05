@@ -4,7 +4,10 @@
 		
 	{"title": "Progress",
 	"link": "progress.html"},
-	
+		
+	{"title": "UTC Reports",
+	"link": "utc-reports.html"},
+
 	{"title": "News",
 	"link": "news.html"},
 	
