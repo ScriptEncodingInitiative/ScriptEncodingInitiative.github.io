@@ -5,11 +5,16 @@ permalink: progress.html
 layout: "layouts/post.njk"
 ---
 
-![Adlam approval, 2014](static/img/adlam.jpg)
+![Adlam approval, 2014](static/img/adlam.jpg){width=70%}
 *Adlam approval, 2014*
 
 
 See also the [SEI liaison reports to UTC/L2](utc-reports.html) for more detailed updates.
+
+
+## Year 21 (2022-2023) 
+
+Will be the conclusion of the NEH grant, which has seen a number of scripts being provisionally assigned code points, including Sidetic and Tolong Siki.  Work on a large extension to Egyptian Hieroglyphs will hopefully also be completed in 2023. Additional progress on Proto-Cuneiform and Ranjana by Anshuman Pandey, as well as updates on other scripts is expected before Dec. 2023.
 
 
 ## Year 20 (2021-2022)
@@ -22,7 +27,7 @@ Will include continued work on Mayan Hieroglyphs and Egyptian Hieroglyph additio
 
 A summary of ongoing script proposals and other related work appears in the quarterly summary reports, [UTC reports](utc-reports.html).
 
-##Year 18 (2019-2020)
+## Year 18 (2019-2020)
 
 Is marked by the end of one NEH grant, and the start of another NEH grant, awarded in January 2020. The new grant will enable research to continue on large script proposals (i.e., Egyptian hieroglyph extensions and Maya hieroglyphs), which cannot be finished within the usual two-year grant timeframe. For more details on the SEI-supported script proposals moving along the encoding pipeline, see the quarterly [UTC reports](utc-reports.html).
 
@@ -91,7 +96,7 @@ Saw continued work on the Middle Kingdom Egyptian hieroglyph proposal, work to e
 
 Included work on a large proposal covering nearly 1000 characters in the Gardiner set of Middle Kingdom Egyptian hieroglyphs.
 
-##Year 2 (2003-2004)
+## Year 2 (2003-2004)
 
 Was marked by continued support for work on script proposals (including Sumero-Akkadian cuneiform, Phoenician, Old Persian cuneiform, N'Ko, Glagolitic, Coptic, and Buginese). A number of articles appeared on the project ([see the Press page](press.html)). The N'Ko proposal was developed with the financial and moral support of UNESCO within the framework of Initiative B@bel.
 
