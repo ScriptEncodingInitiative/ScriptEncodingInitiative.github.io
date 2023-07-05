@@ -5,8 +5,8 @@ permalink: progress.html
 layout: "layouts/post.njk"
 ---
 
-<img src="https://scriptencodinginitiative.github.io/static/img/adlam.jpg" width=70% height=70%>
-*Adlam approval, 2014*
+<img src="https://scriptencodinginitiative.github.io/static/img/adlam.jpg" width=50% height=50%>
+<em>Adlam approval, 2014</em>
 
 
 See also the [SEI liaison reports to UTC/L2](utc-reports.html) for more detailed updates.
