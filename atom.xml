@@ -5,12 +5,21 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-07-05T02:53:18Z</updated>
+	<updated>2023-07-07T23:04:40Z</updated>
 	<id>https://scriptencodinginitiative.github.io</id>
 	<author>
 		<name>Deborah Anderson</name>
 		<email>dwanders@berkeley.edu</email>
 	</author>
+	
+	<entry>
+		<title>May 2023</title>
+		<link href="/news/2023-05/"/>
+		<updated>2023-05-01T00:00:00Z</updated>
+		<id>/news/2023-05/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson and Andrew Glass gave a webinar “Documenting and Preserving Languages with Unicode: A Talk on Character Encoding, Keyboards, and Fonts” on May 16, 2023. The slides for the character encoding portion (by Anderson) are available &amp;quot;&lt;a href=&quot;https://www.unicode.org/media/Character-Encoding-UnicodeWebinarSlides-20230515.pdf&quot;&gt;here&lt;/a&gt;&amp;quot;  and Glass’ slides are available &amp;quot;&lt;a href=&quot;https://www.unicode.org/media/Font-and-Keyboards-UnicodeWebinarSlides-20230515.pdf&quot;&gt;here&lt;/a&gt;&amp;quot;. The webinar will be posted on the Unicode &amp;quot;&lt;a href=&quot;https://www.youtube.com/@unicode&quot;&gt;YouTube channel&lt;/a&gt;&amp;quot;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>September 2022</title>
