@@ -5,7 +5,7 @@ permalink: progress.html
 layout: "layouts/post.njk"
 ---
 
-<img src="https://scriptencodinginitiative.github.io/static/img/adlam.jpg" width=50% height=50%>
+<img src="https://scriptencodinginitiative.github.io/static/img/adlam.jpg" width="50%" height="50%">
 <em>Adlam approval, 2014</em>
 
 
