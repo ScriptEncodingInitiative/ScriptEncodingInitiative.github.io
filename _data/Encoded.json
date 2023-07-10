@@ -149,11 +149,11 @@
 	{"name": "Gondi-Gunjala",
 	"link": "http://www.unicode.org/L2/L2015/15235-gunjala-gondi.pdf",
 	"contact": "Pandey"},
-	
+
 	{"name": "Gondi-Masaram",
 	"link": "http://www.unicode.org/L2/L2015/15090r-masaram-gondi.pdf",
 	"contact": "Pandey"},
-	
+
 	{"name": "Hanifi Rohingya",
 	"link": "http://www.unicode.org/L2/L2016/16311r-hanifi-rohingya.pdf",
 	"contact": "Pandey"},
@@ -231,10 +231,6 @@
 	
 	{"name": "Makasar",
 	"link": "http://www.unicode.org/L2/L2015/15233-makasar.pdf",
-	"contact": "Pandey"},
-	
-	{"name": "Masaram Gondi",
-	"link": "http://www.unicode.org/L2/L2015/15090r-masaram-gondi.pdf",
 	"contact": "Pandey"},
 	
 	{"name": "Mandaic",
