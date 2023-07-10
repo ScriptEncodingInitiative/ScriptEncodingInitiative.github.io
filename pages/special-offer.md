@@ -27,13 +27,13 @@ You can also send a check, made payable to "UC Regents" and mailed to the addres
 
 Please indicate whether you wish to receive the poster and the address where it should be sent. 
 
-Script Encoding Initiative
-c/o Deborah Anderson
-University of California, Berkeley
-Department of Linguistics
-1203 Dwinelle Hall #2650
-Berkeley, CA 94720-2650
-USA
+    Script Encoding Initiative
+    c/o Deborah Anderson
+    University of California, Berkeley
+    Department of Linguistics
+    1203 Dwinelle Hall #2650
+    Berkeley, CA 94720-2650
+    USA
 
 This offer has been made possible from the kind support of the decodeunicode project, particularly Johannes Bergerhausen, at the University of Applied Sciences, Mainz, Germany.
 
