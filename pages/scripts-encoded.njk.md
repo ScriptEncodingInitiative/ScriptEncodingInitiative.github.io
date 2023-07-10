@@ -7,7 +7,7 @@ layout: "layouts/post.njk"
 
 This list includes proposals funded in whole or in part by SEI that have been completed and have been published. This list is provided purely for tracking past proposals.
 
-LAST UPDATE: December 2021
+LAST UPDATE: May 2023
 
 <table class="table">
 <tr>
