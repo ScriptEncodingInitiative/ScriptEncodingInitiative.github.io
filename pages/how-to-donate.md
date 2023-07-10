@@ -7,10 +7,10 @@ layout: "layouts/post.njk"
 
 ![Unicode 14 posters](static/img/anrt-poster.png)
 
-### **SPECIAL OFFER: Make a Donation of $50 or more and receive a limited run Unicode poster! [CLICK HERE](https://scriptencodinginitiative.github.io/special-offer.html) for more information!**
+**SPECIAL OFFER: Make a Donation of $50 or more and receive a limited run Unicode poster! [CLICK HERE](https://scriptencodinginitiative.github.io/special-offer.html) for more information!**
 
 
-Online donations to SEI are now possible!
+### Online donations to SEI are now possible!
 
 1. Go to the secure website for the [Linguistics Annual Fund](https://give.berkeley.edu/fund/FN7206000) and make your donation there.
 
@@ -44,7 +44,7 @@ In-kind contributions are also helpful. SEI is in need of volunteers, as mention
 Donations to SEI help support SEI work. Funds are used primarily to pay script encoding specialists and graduate students to do research, and write script proposals on a per-script basis. Funding also covers research-related travel, administrative costs, and website maintenance. SEI's progress web page gives an overview of project achievements.
 
  
-## Input from experts
+### Input from experts
 
 Input is needed from specialists on any outstanding scripts. This can be in the form of (a) comments on outstanding script proposals, (b) information in support of an ongoing proposal, (c) letters in support of a specific proposal, or (d) actual writing of a proposal.
 
@@ -64,7 +64,7 @@ If you would like to write a letter of support for a specific proposal, please [
 If you are new to Unicode, it is advisable to read the [beginning chapters of the Unicode Standard](mailto:http://www.unicode.org/standard/standard.html). If you intend to become involved in writing proposals, be sure to review the [Unicode Consortium Policies](mailto:http://www.unicode.org/policies/policies.html), and [Proposal Guidelines](http://www.unicode.org/pending/proposals.html).
 
 
-## How to help
+### How to help
 
 - [Participation from experts](scripts-to-encode.html) on specific scripts as well as monetary support is sought for this project.
 
@@ -74,7 +74,7 @@ If you are new to Unicode, it is advisable to read the [beginning chapters of th
 
 
 
-## Assist in fundraising efforts
+### Assist in fundraising efforts
 
 If you would like to volunteer in our fund-raising efforts (especially to write funding proposals), please contact Deborah Anderson (<dwanders@berkeley.edu>).
 
