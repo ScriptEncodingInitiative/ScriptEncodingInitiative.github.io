@@ -147,11 +147,11 @@
 		"contact": ""},
 
 		{"name": "Chak",
-		"type": "",
-		"hma": "",
+		"type": "G",
+		"hma": "m",
 		"proposal": "",
 		"link": "",
-		"contact": ""},
+		"contact": "Mandal and Mitchell"},
 
 		{"name": "Chalukya (Box-Headed)",
 		"type": "G",
@@ -188,6 +188,13 @@
 		"link": "https://www.unicode.org/L2/L2020/20290-cistercian-digits.pdf",
 		"contact": "Miller"},
 		
+		{"name": "Cretan Hieroglyphs",
+		"type": "I",
+		"hma": "h",
+		"proposal": "",
+		"link": "",
+		"contact": ""},
+				
 		{"name": "Demotic (Egyptian)",
 		"type": "",
 		"hma": "h",
@@ -213,7 +220,7 @@
 		"type": "L, S, A",
 		"hma": "h",
 		"proposal": "Y*",
-		"link": "http://www.unicode.org/L2/L2021/21108-n5163-hieroglyphs.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23181-n5240-hieroglyphs.pdf",
 		"contact": "Suignard et al."},
 		
 		{"name": "Epi-Olmec",
@@ -272,6 +279,13 @@
 		"link": "https://www.unicode.org/L2/L2022/22048-garay-script.pdf",
 		"contact": "Rovenchak et al."},
 		
+		{"name": "Gbékoun",
+		"type": "",
+		"hma": "m",
+		"proposal": "Approved*",
+		"link": "",
+		"contact": "Patel"},
+
 		{"name": "Gregg Shorthand",
 		"type": "",
 		"hma": "m",
@@ -454,6 +468,20 @@
 		"link": "http://www.unicode.org/L2/L2015/15232-kulitan.pdf",
 		"contact": "Pandey"},
 		
+		{"name": "Kurux Banna",
+		"type": "A-S",
+		"hma": "m",
+		"proposal": "",
+		"link": "",
+		"contact": "Mandal"},
+
+		{"name": "Kushan",
+		"type": "",
+		"hma": "a",
+		"proposal": "",
+		"link": "",
+		"contact": ""},		
+				
 		{"name": "Kwekor",
 		"type": "S",
 		"hma": "m",
@@ -726,7 +754,7 @@
 		"type": "Lg",
 		"hma": "h",
 		"proposal": "Y*",
-		"link": "https://www.unicode.org/L2/L2022/22239-proto-cuneiform.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23190-proto-cuneiform.pdf",
 		"contact": "Pandey"},
 		
 		
@@ -734,7 +762,7 @@
 		"type": "",
 		"hma": "h",
 		"proposal": "Y*",
-		"link": "http://www.unicode.org/L2/L2020/20192-proto-elamite.pdf",
+		"link": "https://www.unicode.org/L2/L2023/23196-proto-elamite.pdf",
 		"contact": "Pandey"},
 		
 		{"name": "Proto-Sinaitic",
