@@ -282,7 +282,7 @@
 		{"name": "Gbékoun",
 		"type": "",
 		"hma": "m",
-		"proposal": "Approved*",
+		"proposal": "",
 		"link": "",
 		"contact": "Patel"},
 
@@ -703,6 +703,12 @@
 		"link": "",
 		"contact": ""},
 		
+		{"name": "Pabuchi",
+		"type": "G",
+		"hma": "m",
+		"proposal": "",
+		"link": "",
+		"contact": "Mandal"},		
 		
 		{"name": "Pahawh Hmong First Stage",
 		"type": "",
