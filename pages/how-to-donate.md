@@ -18,11 +18,11 @@ layout: "layouts/post.njk"
 
 3. If you need help with the donations process or have any questions, please [send us an email](mailto:dwanders@berkeley.edu), or write to us at:
 
-&ensp;&ensp;&ensp;Script Encoding Initiative
-&ensp;&ensp;&ensp;c/o Anushah Hossain and Deborah Anderson
-&ensp;&ensp;&ensp;Department of Linguistics
-&ensp;&ensp;&ensp;1203 Dwinelle Hall #2650
-&ensp;&ensp;&ensp;Berkeley, CA 94720-2650 USA
+&ensp;&ensp;&ensp;Script Encoding Initiative<br>
+&ensp;&ensp;&ensp;c/o Anushah Hossain and Deborah Anderson<br>
+&ensp;&ensp;&ensp;Department of Linguistics<br>
+&ensp;&ensp;&ensp;1203 Dwinelle Hall #2650<br>
+&ensp;&ensp;&ensp;Berkeley, CA 94720-2650 USA<br>
 
 
 **Donation by phone:**
@@ -31,9 +31,9 @@ You can also make a donation to the Script Encoding Initiative with your credit 
 **Donation by regular mail:**
 Personal Checks (in U.S. dollars) should be made out to "UC Berkeley Foundation", with "Script Encoding Initiative" written on the memo line, and sent to:
 
-&ensp;&ensp;&ensp;University of California, Berkeley
-&ensp;&ensp;&ensp;Donor and Gift Services
-&ensp;&ensp;&ensp;1995 University Avenue, Ste 400
+&ensp;&ensp;&ensp;University of California, Berkeley<br>
+&ensp;&ensp;&ensp;Donor and Gift Services<br>
+&ensp;&ensp;&ensp;1995 University Avenue, Ste 400<br>
 &ensp;&ensp;&ensp;Berkeley, CA 94704-1070
 
 If a letter accompanies the check, it should specify that the money is a "gift." Donations are tax-deductible in the US within the limits as prescribed by law (see [IRS Publication 526](https://www.irs.gov/pub/irs-pdf/p526.pdf)). 
