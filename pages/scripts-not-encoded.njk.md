@@ -58,7 +58,7 @@ The following scripts need further information before being added to the list be
 
 <table class="table">
 <tr>
-	<td><strong>Language</strong></td>
+	<td><strong>Script</strong></td>
 	<td><strong>Type</strong></td>
 	<td><strong>HMA</strong></td>
 	<td><strong>Proposal</strong></td>
